@@ -1,8 +1,9 @@
 # Maintainer: Aaron Brodersen <aaron at abrodersen dot com>
-# Updated: g00d
+# Updated: g00d, marwanpro
+# Based on build 3177 to compile Nadeko Bot for arch
 
 pkgname=dotnet-cli
-pkgver="1.0.0_preview2_1_003182"
+pkgver="1.0.0-preview2-1-003177"
 pkgrel=2
 pkgdesc="A command line utility for building, testing, packaging and running .NET Core applications and libraries"
 arch=(x86_64)
